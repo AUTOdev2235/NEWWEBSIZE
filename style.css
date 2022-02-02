@@ -1,0 +1,56 @@
+.M:link, .M:visited {
+    background-color: rgb(53, 53, 53);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 10px 10px;
+    border-radius: 8px;
+  }
+  
+.M:hover, .M:active {
+    background-color: royalblue;
+    box-shadow: rgb(0, 0, 0);
+    border-radius: 8px;
+}
+
+.M{
+    font-family: sans-serif;
+}
+p{
+    display: inline;
+}
+a{
+    display: inline;
+}
+.BUTTON{
+
+}
+
+.AXK{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: royalblue;
+}
+body{
+    background-color: rgb(53, 53, 53);
+}
+
+
+
+.MAINH2{
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+}
+h2{
+    font-family: sans-serif;
+    color: royalblue;
+    font-size: 25px;
+}
+li{
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-size: 20px;
+}
